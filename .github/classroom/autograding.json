@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Host_check",
+      "setup": "",
+      "run": "python host_check.py",
+      "input": "To srasool@seecs.nust.edu.pk Sat Nov 3 ",
+      "output": "seecs.nust.edu.pk",
+      "comparison": "exact",
+      "timeout": 2,
+      "points": 5
+    }
+  ]
+}
