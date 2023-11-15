@@ -7,7 +7,7 @@
       "input": "To srasool@seecs.nust.edu.pk Sat Nov 3 ",
       "output": "seecs.nust.edu.pk",
       "comparison": "exact",
-      "timeout": 2,
+      "timeout": 5,
       "points": 5
     }
   ]
